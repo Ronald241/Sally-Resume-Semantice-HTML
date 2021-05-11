@@ -1,0 +1,35 @@
+div{
+	background-color: lightblue;
+	padding: 12px;
+	align-content: center;
+
+
+}
+
+img{
+	float: left;
+  width: 110px;
+  height: 150px;
+
+}
+header{
+	position: relative;
+  	top: 18px;
+  	right: 15px;	
+  	padding: 15px;
+  	width: 1000px;
+  	text-align: center;
+}
+address{
+	text-align-last: center;
+}
+
+
+body{
+	
+	border: 5px solid blue;
+	padding: 15px;
+	width: 1000px;
+	background-color: lightyellow;
+	margin: 0 auto 0 auto;
+}
